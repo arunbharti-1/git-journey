@@ -1,1 +1,6 @@
 two
+here i am going to explain how to write function in js
+
+IIFE
+
+(function print(name){console.log(`Hello my name is ${name}`)})(arun)
